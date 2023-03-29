@@ -1,0 +1,15 @@
+C:\Users\38985141880\Desktop\Back-end\media-notas\bin\Debug\net7.0\media-notas.exe
+C:\Users\38985141880\Desktop\Back-end\media-notas\bin\Debug\net7.0\media-notas.deps.json
+C:\Users\38985141880\Desktop\Back-end\media-notas\bin\Debug\net7.0\media-notas.runtimeconfig.json
+C:\Users\38985141880\Desktop\Back-end\media-notas\bin\Debug\net7.0\media-notas.dll
+C:\Users\38985141880\Desktop\Back-end\media-notas\bin\Debug\net7.0\media-notas.pdb
+C:\Users\38985141880\Desktop\Back-end\media-notas\obj\Debug\net7.0\media-notas.csproj.AssemblyReference.cache
+C:\Users\38985141880\Desktop\Back-end\media-notas\obj\Debug\net7.0\media-notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38985141880\Desktop\Back-end\media-notas\obj\Debug\net7.0\media-notas.AssemblyInfoInputs.cache
+C:\Users\38985141880\Desktop\Back-end\media-notas\obj\Debug\net7.0\media-notas.AssemblyInfo.cs
+C:\Users\38985141880\Desktop\Back-end\media-notas\obj\Debug\net7.0\media-notas.csproj.CoreCompileInputs.cache
+C:\Users\38985141880\Desktop\Back-end\media-notas\obj\Debug\net7.0\media-notas.dll
+C:\Users\38985141880\Desktop\Back-end\media-notas\obj\Debug\net7.0\refint\media-notas.dll
+C:\Users\38985141880\Desktop\Back-end\media-notas\obj\Debug\net7.0\media-notas.pdb
+C:\Users\38985141880\Desktop\Back-end\media-notas\obj\Debug\net7.0\media-notas.genruntimeconfig.cache
+C:\Users\38985141880\Desktop\Back-end\media-notas\obj\Debug\net7.0\ref\media-notas.dll
